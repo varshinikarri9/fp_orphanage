@@ -1,0 +1,48 @@
+.about-container {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+  }
+  
+  h1, h2 {
+    font-family: 'Merriweather', serif;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+  }
+  
+  p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  
+  .img-fluid {
+    border: 2px solid #ddd;
+    padding: 5px;
+  }
+  
+  .rounded {
+    border-radius: .25rem;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .my-5 {
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+  }
+  
+  .mb-5 {
+    margin-bottom: 3rem !important;
+  }
+  

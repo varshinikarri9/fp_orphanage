@@ -1,0 +1,53 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+  }
+  
+  .carousel .carousel-item {
+    height: 400px;
+  }
+  
+  .carousel .carousel-item img {
+    max-height: 100%;
+    object-fit: cover;
+  }
+  
+  .founder-info {
+    margin: 3rem 0;
+  }
+  
+  .founder-info .founder-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-top: 1rem;
+  }
+  
+  .live-stats {
+    margin: 3rem 0;
+  }
+  
+  .live-stats .stats {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+  .live-stats .stat {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: .3rem;
+  }
+  
+  .live-stats .stat h3 {
+    font-size: 1.5rem;
+  }
+  
+  .live-stats .stat .count {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
